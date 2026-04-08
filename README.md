@@ -279,6 +279,18 @@ Chat with us here on Discord:
           - [3.2.1.2.0.2 Pages](https://github.com/hassanhabib/The-Standard/blob/master/3.%20Exposers/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321202-pages)
           - [3.2.1.2.0.3 Unobtrusiveness](https://github.com/hassanhabib/The-Standard/blob/master/3.%20Exposers/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321203-unobtrusiveness)
           - [3.2.1.2.0.4 Organization](https://github.com/hassanhabib/The-Standard/blob/master/3.%20Exposers/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321204-organization)
+- [4 Versioning](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#4-versioning)
+  - [4.0 Introduction](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#40-introduction)
+    - [4.0.0 Purpose](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#400-purpose)
+      - [4.0.0.0 Non-Destructive by Design](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#4000-non-destructive-by-design)
+    - [4.0.1 Types of Versioning](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#401-types-of-versioning)
+      - [4.0.1.0 Release Versioning](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#4010-release-versioning)
+      - [4.0.1.1 File Versioning](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#4011-file-versioning)
+      - [4.0.1.2 API Versioning](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#4012-api-versioning)
+    - [4.0.2 Deprecation](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#402-deprecation)
+    - [4.0.3 Capabilities](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#403-capabilities)
+    - [4.0.4 Examples](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#404-examples)
+    - [4.0.5 Summary](https://github.com/hassanhabib/The-Standard/blob/master/4.%20Versioning/4.%20Versioning.md#405-summary)
 
 ## Other Resources
 - The Standard [YouTube Playlist](https://www.youtube.com/watch?v=8PveoymxCok&list=PLan3SCnsISTQqmSTZHQbGxBmVDwQdrlub)
