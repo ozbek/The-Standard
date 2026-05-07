@@ -144,7 +144,12 @@ Chat with us here on Discord:
       - [2.1.3.2 Mapping](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#2132-mapping)
         - [2.1.3.2.0 Non-Local Models](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#21320-non-local-models)
         - [2.1.3.2.1 Exceptions Mappings](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#21321-exceptions-mappings)
-  - [2.2 Processing Services](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.2%20Processings/2.2%20Processings.md#22-processing-services-higher-order-business-logic)
+  - [2.1.4 Self-Sufficient (Dead-End) Services](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#214-self-sufficient-dead-end-services)
+    - [2.1.4.0 Introduction](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#2140-introduction)
+    - [2.1.4.1 Characteristics](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#2141-characteristics)
+    - [2.1.4.2 Design Guidance](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#2142-design-guidance)
+    - [2.1.4.3 Testing Considerations](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#2143-testing-considerations)
+  - [2.2 Processing Services]
     - [2.2.0 Introduction](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.2%20Processings/2.2%20Processings.md#220-introduction)
     - [2.2.1 On The Map](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.2%20Processings/2.2%20Processings.md#221-on-the-map)
     - [2.2.2 Characteristics](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.2%20Processings/2.2%20Processings.md#222-characteristics)
