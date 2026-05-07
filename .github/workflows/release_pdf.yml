@@ -29,6 +29,7 @@ jobs:
                         echo "$separator" >> The-Standard.html
                     done
                     echo "</body></html>" >> The-Standard.html
+                    sed -i 's/id="user-content-/id="/g' The-Standard.html
                     command="$command The-Standard.pdf"
                     bash -c $command
             - name: Archive production artifacts
