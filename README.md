@@ -347,3 +347,4 @@ Chat with us here on Discord:
 - [RESTFulSense](https://github.com/hassanhabib/RESTFulSense)
 - [Xeptions](https://github.com/The-Standard-Organization/Xeption)
 - [EFxceptions](https://github.com/hassanhabib/EFxceptions)
+- [ADotNet](https://github.com/the-standard-organization/adotnet)
